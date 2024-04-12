@@ -16,8 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=EkVid&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -27,7 +25,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Austin+Yang">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Austin+Yang" target="_blank">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Canada</b> 」
     <br>
@@ -36,15 +34,12 @@
 </p>
 
 <p align="center">
- <a href="https://austinyt.in/" target="blank">
+ <a href="https://austinyt.in/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="EkVid" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/austin-yang-3544061ba/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="EkVid"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
  <a href="https://www.instagram.com/austin_ed7/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="EkVid" />
  </a> 
@@ -103,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/EkVid">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EkVid&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EkVid&theme=radical&border=7F3FBF&background=0D1117" alt="EkVid's GitHub streak"/>
   </a>
 </p>
 
@@ -114,8 +109,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/EkVid"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EkVid&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/EkVid"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EkVid&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/EkVid"><img alt="Austin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EkVid&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/EkVid"><img alt="Austin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EkVid&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
