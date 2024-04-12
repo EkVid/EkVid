@@ -22,7 +22,6 @@
 </p>
 
 <p align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <a href="https://austinyt.in/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="EkVid" />
  </a>
@@ -40,8 +39,7 @@
 <h1 style="color:#FFFFFF">About me</h1>
 
 <p style="color:#FFFFFF">
-  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
   ✌️ &emsp; Enjoy to do Programming and learning Quantitative Development <br/><br/>
   ❤️ &emsp; Love to writing code and exploring new technologies<br/><br/>
   📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
