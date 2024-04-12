@@ -1,40 +1,26 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=EkVid">
+<a href="https://komarev.com/ghpvc/?username=EkVid" target="_blank">
   <img align="right" src="https://komarev.com/ghpvc/?username=EkVid&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://austinyt.in/">Austin Yang</a></b>
-        </samp>
+    <samp>&gt; Hey There!, I am
+            <b><a target="_blank" href="https://austinyt.in/" style="color:#DC143C">Austin Yang</a></b>
+    </samp>
 </h3>
 
 <p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Austin+Yang" target="_blank">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Canada</b> 」
-    <br>
-    <br>
-  </samp>
+<samp>
+  <a href="https://www.google.com/search?q=Austin+Yang" target="_blank" style="color:#DC143C">「 Google Me 」</a>
+  <br>
+  「 I am a full stack web application developer from <b>Canada</b> 」
+  <br>
+  <br>
+</samp>
 </p>
 
 <p align="center">
- <a href="https://austinyt.in/" target="_blank">
+<a href="https://austinyt.in/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="EkVid" />
  </a>
  <a href="https://www.linkedin.com/in/austin-yang-3544061ba/" target="_blank">
@@ -48,14 +34,14 @@
 
 <!-- About Section -->
 
-# About me
+<h1 style="color:#FFFFFF">About me</h1>
 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<p style="color:#FFFFFF">
+  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
+  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+  📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
 
 </p>
 
@@ -63,7 +49,7 @@
 <br/>
 <br/>
 
-## Use To Code
+<h2 style="color:#FFFFFF">Use To Code</h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
