@@ -16,7 +16,7 @@
   「 I am a Computer Science, Statistics, and Finance Student at <b>UofT</b> in <b>Canada</b>」
   <br>
   <br>
-  「 I have worked as <b>Software Engineer</b>, <b>Full Stack Developer</b>, <b>Quantitative Analys</b>, <b>Financial Engineer</b>, and <b>FInTech Developer</b> 」
+  「 I have worked as <b>Software Engineer</b>, <b>Full Stack Developer</b>, <b>Quantitative Analys</b>, <b>Financial Engineer</b>, and <b>Financial Technology Developer</b> 」
   <br>
 </samp>
 </p>
