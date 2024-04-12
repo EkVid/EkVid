@@ -39,7 +39,7 @@
 <h1 style="color:#FFFFFF">About me</h1>
 
 <p style="color:#FFFFFF">
-<img alt="Coder GIF" aligh= "right" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img alt="Coder GIF" aligh="right" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
   ✌️ &emsp; Enjoy to do Programming and learning Quantitative Development <br/><br/>
   ❤️ &emsp; Love to writing code and exploring new technologies<br/><br/>
   📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
