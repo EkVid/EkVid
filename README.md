@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <a href="https://austinyt.in/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="EkVid" />
  </a>
@@ -41,8 +42,8 @@
 <p style="color:#FFFFFF">
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+  ✌️ &emsp; Enjoy to do Programming and learning Quantitative Development <br/><br/>
+  ❤️ &emsp; Love to writing code and exploring new technologies<br/><br/>
   📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
 
 </p>
