@@ -13,8 +13,10 @@
 <samp>
   <a href="https://www.google.com/search?q=Austin+Yang" target="_blank" style="color:#DC143C">「 Google Me 」</a>
   <br>
-  「 I am a full stack web application developer from <b>Canada</b> 」
+  「 I am a Computer Science, Statistics, and Finance Student at <b>UofT</b> in <b>Canada</b>」
   <br>
+  <br>
+  「 I have worked as <b>Software Engineer</b>, <b>Full Stack Developer</b>, <b>Quantitative Analys</b>, <b>Financial Engineer</b>, and <b>FInTech Developer</b> 」
   <br>
 </samp>
 </p>
