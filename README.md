@@ -39,10 +39,11 @@
 <h1 style="color:#FFFFFF">About me</h1>
 
 <p style="color:#FFFFFF">
-  <img alt="Coder GIF" style="float: right; margin-left: 10px;" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-  ✌️ &emsp; Enjoy doing Programming and learning Quantitative Development <br/><br/>
-  ❤️ &emsp; Love writing code and exploring new technologies<br/><br/>
-  📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+✌️ &emsp; Enjoy doing Programming and learning Quantitative Development <br/><br/>
+❤️ &emsp; Love writing code and exploring new technologies<br/><br/>
+📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
+
 </p>
 
 <br/>
