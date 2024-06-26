@@ -13,7 +13,7 @@
 <samp>
   <a href="https://www.google.com/search?q=Austin+Yang" target="_blank" style="color:#DC143C">「 Google Me 」</a>
   <br>
-  「 I am a <b>Computer Science</b>, <b>Statistics</b>, and <b>Finance</b> Student at <b>UofT</b> in <b>Canada</b>」
+  「 I am a <b>Computer Science</b>, <b>Statistics</b>, and <b>Biochemistry</b> Student at <b>UofT</b> in <b>Canada</b>」
   <br>
   <br>
   「 I have worked / am working as a <b>Software Engineer</b>, <b>Full Stack Developer</b>, <b>Quantitative Analyst</b>, <br>and <b>Financial Technology Developer</b> 」
