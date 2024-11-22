@@ -11,7 +11,7 @@
 
 <p align="center"> 
 <samp>
-  <a href="https://www.google.com/search?q=Austin+Yang" target="_blank" style="color:#DC143C">「 Google Me 」</a>
+  <a href="https://www.google.com/search?q=Austin+Yang+Software+Engineer+Full+Stack+Developer" target="_blank" style="color:#DC143C">「 Google Me 」</a>
   <br>
   「 I am a <b>Computer Science</b>, <b>Statistics</b>, and <b>Biochemistry</b> Student at <b>UofT</b> in <b>Canada</b>」
   <br>
