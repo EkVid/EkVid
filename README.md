@@ -13,6 +13,11 @@
 <samp>
   <a href="https://www.google.com/search?q=Austin+Yang+Software+Engineer+Full+Stack+Developer" target="_blank" style="color:#DC143C">「 Google Me 」</a>
   <br>
+  or
+  <br>
+  「Learn more about me via my personal <a href="https://austinyt.in/" target="_blank" style="color:#DC143C">website<a/> or <a href="https://terminal.austinyt.in/" target="_blank" style="color:#DC143C">terminal</a> if you prefer to talk to a computer :)」
+  <br>
+  <br>
   「 I am a <b>Computer Science</b>, <b>Statistics</b>, and <b>Biochemistry</b> Student at <b>UofT</b> in <b>Canada</b>」
   <br>
   <br>
