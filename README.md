@@ -11,7 +11,7 @@
 
 <p align="center"> 
 <samp>
-  <a href="https://www.google.com/search?q=Austin+Yang+Software+Engineer+Full+Stack+Developer" target="_blank" style="color:#DC143C">「 Google Me 」</a>
+  <a href="https://www.google.com/search?q=Austin+Yang+Software+Engineer+Writer+UofT" target="_blank" style="color:#DC143C">「 Google Me 」</a>
   <br>
   or
   <br>
