@@ -39,18 +39,6 @@
 </p>
 <br />
 
-<!-- About Section -->
-
-<h1 style="color:#FFFFFF">About me</h1>
-
-<p style="color:#FFFFFF">
- <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
-✌️ &emsp; Enjoy writing code to do random stuff <br/><br/>
-❤️ &emsp; Love reading about things in all areas<br/><br/>
-📧 &emsp; Reach me anytime: au.yang@mail.utoronto.ca<br/><br/>
-
-</p>
-
 <br/>
 <br/>
 <br/>
