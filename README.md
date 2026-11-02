@@ -11,11 +11,11 @@
 
 <p align="center"> 
 <samp>
-  <a href="https://www.google.com/search?q=Austin+Yang+Software+Engineer+Writer+UofT" target="_blank" style="color:#DC143C">「 Google Me 」</a>
+  <a href="https://www.google.com/search?q=Austin+Yang+Software+Engineer+UofT" target="_blank" style="color:#DC143C">「 Google Me 」</a>
   <br>
   or
   <br>
-  「Learn more about me via my personal <a href="https://austinyt.in/" target="_blank" style="color:#DC143C">website<a/> or <a href="https://terminal.austinyt.in/" target="_blank" style="color:#DC143C">terminal</a> if you prefer to talk to a computer :)」
+  「Learn more about me via my <a href="https://austinyt.in/" target="_blank" style="color:#DC143C">website<a/>」
   <br>
   <br>
   「 I am a <b>Computer Science</b>, <b>Statistics</b>, and <b>Biochemistry</b> Student at <b>UofT</b> in <b>Canada</b>」
@@ -33,9 +33,6 @@
  <a href="https://www.linkedin.com/in/austin-yang-3544061ba/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="EkVid"/>
  </a>
- <a href="https://www.instagram.com/austin_ed7/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="EkVid" />
- </a> 
 </p>
 <br />
 
